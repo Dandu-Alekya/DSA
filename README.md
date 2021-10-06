@@ -1,2 +1,7 @@
-# DSA
-This repository consists of my DSA learning journey from October 2021.
+# DSA BOOTCAMP
+
+Hi there!! 
+I have started learning DSA through the <a href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java">DSA BOOTCAMP IN JAVA from kunal-kushwaha</a>.
+This repository will contain all the assigments from the bootcamp, along with any notes and leetcode & geeksforgeeks problems.
+Star this repository for following along my DSA learning journey and hoping you learn a little something as well!!
+
