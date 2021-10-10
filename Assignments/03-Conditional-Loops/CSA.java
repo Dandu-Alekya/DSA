@@ -10,7 +10,7 @@ public class CSA {
         r = sc.nextFloat();
         System.out.println("Enter the height of the cylinder");
         h = sc.nextFloat();
-        System.out.printf("The Volume of the cylinder is: %.2f\n",2*PI*r*h);
+        System.out.printf("The CSA of the cylinder is: %.2f\n",2*PI*r*h);
         sc.close();
         
     }
