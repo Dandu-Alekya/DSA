@@ -7,3 +7,5 @@ Star this repository for following along my DSA learning journey and hoping you 
 
 Table of contents: 
 1. Flowchart questions
+2. Basic Java questions (loops) 
+3. Advance Java questions (loops)
